@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "3371254646",
+    "firebase_url": "https://final-ce04b.firebaseio.com",
+    "project_id": "final-ce04b",
+    "storage_bucket": "final-ce04b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3371254646:android:6c8ecd9d9f113baa",
+        "android_client_info": {
+          "package_name": "com.mad.sunny.afinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3371254646-nft91nbu6paem46emgct8k1b6j75tv0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgvCUzUOd0Tl9PcH02svixH6xes0Lm74s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_person">AddPersonActivity</string>
+    <string name="labelPersonName">Person\'s Name</string>
+    <string name="labelYourBudget">Your Budget</string>
+    <string name="labelDollarSign">$</string>
+    <string name="title_activity_gift_list">GiftListActivity</string>
+    <string name="title_activity_add_gift">AddGiftActivity</string>
+</resources>
